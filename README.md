@@ -49,12 +49,12 @@
 ### 1. 基础技能强化
 - **工具掌握**：
   - GitHub：每周提交代码至个人仓库，用`README.md`记录进展。
-  - Markdown：用Typora撰写实验报告，[参考语法文档](https://www.markdownguide.org/)。
+  - Markdown：用Typora撰写实验报告。
   - Linux/Docker：完成PPT第11页的Docker实战练习（如运行Ubuntu容器）。
 
 - **编程语言**：
   - Python/R语言：每周完成2个生信脚本（如序列处理、统计绘图）。
-  - Bash脚本：整理常用命令为[Cheat Sheet](https://github.com/bioinfo-cheatsheets)。
+  - Bash脚本：整理常用命令。
 
 ### 2. 核心内容学习
 - **理论重点**：
